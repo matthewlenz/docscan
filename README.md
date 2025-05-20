@@ -44,7 +44,7 @@ Scan from a remote image
 
 Scan from a local file
 ```bash
-    docscan path/to/output.png path/to/input.png
+    docscan path/to/input.png path/to/output.png
 ```
 
 ### Usage as a library
