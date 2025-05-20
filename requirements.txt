@@ -2,6 +2,7 @@ click
 flask
 imutils
 numpy
+onnxruntime
 opencv-python
 rembg
 waitress

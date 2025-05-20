@@ -1,5 +1,4 @@
 import glob
-import imghdr
 import os
 import sys
 
